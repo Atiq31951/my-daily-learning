@@ -1,0 +1,42 @@
+[
+	{
+		"id": 13,
+		"name": {
+				"en": "Hats",
+				"bn": "টুপি"
+		},
+		"image": "https://static-01.daraz.com.bd/p/56a02590464393668b6e3216f2312673.jpg_340x340q80.jpg_.webp"
+	},
+	{
+		"id": 13,
+		"name": {
+				"en": "Jackets",
+				"bn": "জ্যাকেট"
+		},
+		"image": "https://thenypost.files.wordpress.com/2019/12/sized-canada-goose-parkas.jpg?quality=80&strip=all"
+	},
+	{
+		"id": 13,
+		"name": {
+				"en": "Sneakers",
+				"bn": "জুতা"
+		},
+		"image": "https://i1.wp.com/sourcingjournal.com/wp-content/uploads/2019/12/2019yearinsneakers.jpg?w=1000&quality=98&ssl=1"
+	},
+	{
+		"id": 13,
+		"name": {
+				"en": "Womans Fasion",
+				"bn": "মহিলাদের সাজনপাতি"
+		},
+		"image": "https://ae01.alicdn.com/kf/HTB1M6DiXdfvK1RjSszhq6AcGFXah/Spring-New-High-end-PU-Leather-Windbreakers-European-Style-Women-s-Fashion-Slim-Long-Trench-Coat.jpg"
+	},
+	{
+		"id": 13,
+		"name": {
+				"en": "Mans Fasion",
+				"bn": "ম্যান্স ফেশন"
+		},
+		"image": "https://scstylecaster.files.wordpress.com/2018/12/GettyImages-914704910-copy.jpg"
+	}
+]
