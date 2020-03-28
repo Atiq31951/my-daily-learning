@@ -1,2 +1,0 @@
-Install react-script from npm
-npm install react-scripts@2.1.8
